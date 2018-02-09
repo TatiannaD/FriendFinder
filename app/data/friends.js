@@ -1,0 +1,132 @@
+var friendsArray = [
+    {
+        "name":"Jon Snow",
+        "photo":"static/images/jonSnow.jpg",
+        "scores":[
+            3,
+            4,
+            5,
+            4,
+            1,
+            5,
+            5,
+            5,
+            4,
+            3
+          ]
+      },
+      {
+        "name":"Daenerys Stormborn",
+        "photo":"static/images/daenerys.jpg",
+        "scores":[
+            3,
+            5,
+            3,
+            5,
+            1,
+            5,
+            5,
+            5,
+            1,
+            5
+          ]
+      },
+      {
+        "name":"Tryion Lannister",
+        "photo":"static/images/tyrionLannister.jpg",
+        "scores":[
+            3,
+            4,
+            5,
+            3,
+            2,
+            5,
+            3,
+            5,
+            2,
+            2
+          ]
+      },
+      {
+        "name":"Cersei Lannister",
+        "photo":"static/images/cerseiLannister.jpg",
+        "scores":[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      },
+      {
+        "name":"Jaime Lannister",
+        "photo":"static/images/jaimeLannister.jpeg",
+        "scores":[
+            5,
+            5,
+            4,
+            5,
+            1,
+            5,
+            1,
+            4,
+            1,
+            5
+          ]
+      },
+            {
+        "name":"Arya Stark",
+        "photo":"static/images/aryaStark.jpg",
+        "scores":[
+            4,
+            5,
+            2,
+            2,
+            1,
+            3,
+            3,
+            3,
+            2,
+            3
+          ]
+      },
+            {
+        "name":"Sansa, Stark",
+        "photo":"static/images/sansaStark.png",
+        "scores":[
+            2,
+            5,
+            5,
+            3,
+            5,
+            5,
+            4,
+            2,
+            4,
+            5
+          ]
+      },
+            {
+        "name":"Lord Baelish",
+        "photo":"static/images/lordBaelish.jpg",
+        "scores":[
+            3,
+            5,
+            3,
+            5,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+      }
+]
+
+module.exports = friendsArray;
